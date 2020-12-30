@@ -1,4 +1,5 @@
 # JCrashCheck(Java Website Crash Check)
+[![OS](https://img.shields.io/badge/Tested%20On-Linux-Orange.svg)](https://en.wikipedia.org/wiki/Linux)
 
 <h6>Author : RKT</h6>
 
