@@ -1,5 +1,5 @@
 [![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/r3k4t/jcrashcheck/blob/master/LICENSE)
-[![OS](https://img.shields.io/badge/Tested%20On-orm.svg)](https://en.wikipedia.org/wiki/Linux)
+[![OS](https://img.shields.io/badge/Tested%20On-lightgreen.svg)](https://en.wikipedia.org/wiki/Linux)
 
 # JCrashCheck(Java Website Crash Check)
 
