@@ -13,7 +13,7 @@ JCrashCheck is a Java Website Crash Checker.Its build on java program.It can hel
 
 ### Setup ###
 
-+ sudo apt install openjdk-8-jdk
++ sudo apt install openjdk-8-jdk openjdk-8-jre
 
 ### Terminal Command ###
 
